@@ -1,0 +1,63 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #EEEFCF;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    border-radius: 4%;
+}
+
+.section_one {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.section_two{
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.section_three {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+/**still section3**/
+ul{
+    list-style-type: none;
+}
+
+.pic-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    margin: auto;
+    padding: auto;
+}
+
+.pic {
+    width: 100%;
+    height: auto;
+    display: block;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.section_four {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.section_five {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
